@@ -9,7 +9,7 @@ Connecting Canon E410 Printer into home network using CUPS Printer Server
 
 `sudo systemctl restart cups`<br>
 
-`sudo apt install printer-driver-gutenprint system-config-printer` <br>
+`sudo apt install printer-driver-gutenprint` <br>
 
 
 # Adding E410 Printer to Windows Machine via network
